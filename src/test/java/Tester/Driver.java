@@ -1,4 +1,4 @@
 package Tester;
 
-public class Driver {
+public class Driver{
 }
