@@ -2,8 +2,12 @@ package pages;
 
 public class HomePage {
 
-    //locators
-    // added locators
-    //added something
+    //Locators
+
+    //Added locators
+
+    //Added something
+
+    //New Locators
 
 }
