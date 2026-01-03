@@ -5,7 +5,8 @@ import org.openqa.selenium.WebElement;
 public class HomePage {
 
     //Locators
-    String LogButton;
+    String LogBtn;
+
 
     //Added locators
 
