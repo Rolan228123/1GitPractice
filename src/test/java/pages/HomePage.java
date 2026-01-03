@@ -12,5 +12,7 @@ public class HomePage {
 
     //Form my branch
 
+    String loginButton;
+
 
 }
