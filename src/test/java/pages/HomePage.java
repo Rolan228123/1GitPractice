@@ -13,8 +13,10 @@ public class HomePage {
     //New Locators
 
     //Form my branch
+    String playButton;
 
     String loginButton;
     String loginButton2;
+
 
 }
