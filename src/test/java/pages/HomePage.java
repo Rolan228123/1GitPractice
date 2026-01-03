@@ -13,6 +13,7 @@ public class HomePage {
     //New Locators
 
     //From Develop
+    String playButton;
 
     String loginButton;
 
