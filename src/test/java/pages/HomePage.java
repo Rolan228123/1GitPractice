@@ -15,5 +15,6 @@ public class HomePage {
     //Form my branch
 
     String loginButton;
+    String loginButton2;
 
 }
