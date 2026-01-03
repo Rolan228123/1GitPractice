@@ -1,5 +1,7 @@
 package pages;
 
+import org.openqa.selenium.WebElement;
+
 public class HomePage {
 
     //Locators
@@ -13,6 +15,5 @@ public class HomePage {
     //Form my branch
 
     String loginButton;
-
 
 }
