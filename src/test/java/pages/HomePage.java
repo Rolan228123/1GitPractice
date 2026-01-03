@@ -15,6 +15,5 @@ public class HomePage {
     //From Develop
 
     String loginButton;
-    String loginButton2;
 
 }
